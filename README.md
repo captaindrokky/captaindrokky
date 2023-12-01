@@ -22,6 +22,45 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
+├── personal_info.txt                        * Información personal
+├── skills/
+|   ├── programming/                        * Habilidades de programación
+│   |   ├── python.txt
+│   |   └── java.txt
+|
+├── education/
+|   ├── certificates/                       * Certificados académicos
+│   |   ├── computer_science.txt
+│   |   └── web_development.txt
+|
+├── work_experience/
+|   ├── previous_jobs/                       * Experiencia laboral anterior
+│   |   ├── software_engineer.txt
+│   |   └── web_developer.txt
+|
+├── projects/
+|   ├── personal_projects/                   * Proyectos personales
+│   |   ├── project1/
+│   |   |   ├── README.md
+│   |   |   ├── source_code/
+│   |   |   └── documentation/
+│   |   |
+│   |   └── project2/
+│   |       ├── README.md
+│   |       ├── source_code/
+│   |       └── documentation/
+|
+├── skills_certifications/                   * Certificaciones de habilidades
+│   ├── python_certification.txt
+│   └── java_certification.txt
+|
+├── profile_picture.jpg                      * Foto de perfil
+└── contacts/
+    ├── email.txt
+    ├── phone_number.txt
+    └── social_media/
+        ├── linkedin.txt
+        └── twitter.txt
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
