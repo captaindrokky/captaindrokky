@@ -22,6 +22,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
+<pre>
 ├── personal_info.txt                        * Información personal
 ├── skills/
 |   ├── programming/                        * Habilidades de programación
@@ -61,6 +62,7 @@
     └── social_media/
         ├── linkedin.txt
         └── twitter.txt
+</pre>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
