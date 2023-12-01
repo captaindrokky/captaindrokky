@@ -22,7 +22,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
-<pre>
+  
+<pre align="left">
 ├── personal_info.txt * Información personal
 ├── skills/
 │ ├── programming/ * Habilidades de programación
